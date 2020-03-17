@@ -1,4 +1,4 @@
-# Template-for-travel-company
+# Template for travel company
 This template is proposed for travel company. It contains login, hotels, index and error page. Additionally, such functionalities as to search for hotels, flights, cars and so on can be created at the back end.
 
 Home page
